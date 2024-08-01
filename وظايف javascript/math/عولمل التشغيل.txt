@@ -1,0 +1,51 @@
+
+// =
+
+let x = 10 ;
+console.log(x);
+
+// +=
+
+// للجمع
+let y = 10;
+let s = 5;
+let z = y =+ s;
+console.log(z);
+
+// للدمج
+let car = "zezo and ";
+car += "medo"
+console.log(car);
+
+//  -=
+let m =  10;
+let d = 5;
+let c = m -= d;
+console.log(c);
+
+// *=
+let v = 10;
+let t = 4;
+let fg = v *= 4;
+console.log(fg);
+
+// **=
+let gg = 4;
+let gn = 2;
+let gd = gg **= gn;
+console.log(gd);
+
+// /=
+let fr = 40;
+let fe = 2;
+let ft = fr /= fe;
+console.log(ft);
+
+// %=
+let vd = 25;
+let vn = 2;
+let vb = vd %= vn;
+console.log(vb);
+
+// عوامل التشغيل
+console.log("عوامل التشغيل");
